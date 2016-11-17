@@ -1,0 +1,140 @@
+Change on 2016/03/29 14:06:49: Changed item 19 - 196 in Price/In Stock to 195. 
+Change on 2016/03/29 14:06:49: Changed item 19 - 238 in Price/Sold to 197. 
+Change on 2016/03/29 14:06:50: Changed item 19 - 195 in Price/In Stock to 194. 
+Change on 2016/03/29 14:06:50: Changed item 19 - 239 in Price/Sold to 196. 
+Change on 2016/03/29 14:06:50: Changed item 19 - 194 in Price/In Stock to 193. 
+Change on 2016/03/29 14:06:50: Changed item 19 - 240 in Price/Sold to 195. 
+Change on 2016/03/29 14:07:11: Changed item 13 - 441.0000 in Price/Sell Price to 442.0000. 
+Change on 2016/03/29 14:07:28: Changed item 17 - 339.9900 in Price/Sell Price to 345.9900. 
+Change on 2016/03/29 14:07:33: Changed item 17 - 202 in Price/In Stock to 201. 
+Change on 2016/03/29 14:07:34: Changed item 17 - 28 in Price/Sold to 203. 
+Change on 2016/03/29 14:07:34: Changed item 17 - 201 in Price/In Stock to 200. 
+Change on 2016/03/29 14:07:34: Changed item 17 - 29 in Price/Sold to 202. 
+Change on 2016/03/29 14:07:34: Changed item 17 - 200 in Price/In Stock to 199. 
+Change on 2016/03/29 14:07:34: Changed item 17 - 30 in Price/Sold to 201. 
+Change on 2016/03/29 14:07:37: Changed item 7 - 344 in Price/In Stock to 343. 
+Change on 2016/03/29 14:07:37: Changed item 7 - 1 in Price/Sold to 345. 
+Change on 2016/03/29 14:07:37: Changed item 7 - 343 in Price/In Stock to 342. 
+Change on 2016/03/29 14:07:37: Changed item 7 - 2 in Price/Sold to 344. 
+Change on 2016/03/29 14:08:09: Changed item 34 - Samsung Galaxy s5 phone charger in Product/Product Name to Samsung Galaxy s5 phone charging cable. 
+Change on 2016/03/29 14:08:35: Changed item 34 - 12.0000 in Price/Sell Price to 13.0000. 
+Change on 2016/03/29 14:08:35: Changed item 34 - 7.0000 in Price/Buy Price to 7.5000. 
+Change on 2016/03/29 14:08:35: Changed item 34 - 12.0000 in Price/Buy Price to 13.0000. 
+Change on 2016/03/29 14:09:27: Changed item 27 - 26 in Price/In Stock to 25. 
+Change on 2016/03/29 14:09:27: Changed item 27 - 0 in Price/Sold to 27. 
+Change on 2016/03/29 14:09:27: Changed item 27 - 25 in Price/In Stock to 24. 
+Change on 2016/03/29 14:09:27: Changed item 27 - 1 in Price/Sold to 26. 
+Change on 2016/03/29 14:10:24: Changed item 29 - Sony 55” 4K Ultra HD 120Hz LED XBR43X450C Android Playstation Now HDTV
+Home »
+TV & Home Theatre
+Electronics - Video Display Devices »
+50" - 59" TVs »
+Part#: KDL55W800C
+Sony 55” 1080p 120Hz 3D LED KDL55W800C WiFi Playstation Now Android Smart HDTV in Product/Description to Sony 55” 4K Ultra HD 120Hz LED XBR43X450C Android Playstation Now HDTV
+Home »
+TV & Home Theatre
+Electronics - Video Display Devices »
+50" - 59" TVs »
+Part#: KDL55W800C
+Sony 55” 1080p 120Hz 3D LED KDL55W800C WiFi Playstation Now Android Smart HDTV
+Good for watching pokemon. 
+Change on 2016/03/29 15:16:34: Changed item 26 - 45 in Price/In Stock to 44. 
+Change on 2016/03/29 15:16:34: Changed item 26 - 26 in Price/Sold to 46. 
+Change on 2016/03/29 15:17:22: Changed item 26 - UN32J5205 32IN 1080p MR60 Smart WiFi LED TV in Product/Description to UN32J5205 32IN 1080p MR60 Smart WiFi LED HDTV. 
+Change on 2016/04/07 18:17:56: Changed item 16 - 449.9900 in Price/Sell Price to fhg. 
+Change on 2016/04/07 18:22:26: Changed item 103 - disc in Product/Description to SDF sdf . 
+Change on 2016/04/07 18:22:53: Changed item 103 - 120.0000 in Price/Sell Price to asd. 
+Change on 2016/04/07 18:25:41: Changed item 15 - 12.0000 in Price/Sell Price to 15. 
+Change on 2016/04/07 18:26:02: Changed item 15 - 15.0000 in Price/Sell Price to 1d. 
+Change on 2016/04/07 18:28:48: Changed item 18 - 441.0000 in Price/Sell Price to 44d1.0000. 
+Change on 2016/04/07 18:28:57: Changed item 18 - 441.0000 in Price/Sell Price to 44d1.0000. 
+Change on 2016/04/07 18:30:59: Changed item 4 - 120.0000 in Price/Sell Price to 120.0000d. 
+Change on 2016/04/07 18:31:26: Changed item 12 - 339.9900 in Price/Sell Price to 339.9as900. 
+Change on 2016/04/07 18:31:33: Changed item 12 - 339.9900 in Price/Sell Price to 339.ik900. 
+Change on 2016/04/07 18:31:41: Changed item 12 - 339.9900 in Price/Sell Price to 339.900. 
+Change on 2016/04/07 18:32:59: Changed item 11 - 340.0000 in Price/Buy Price to 34s0.0000. 
+Change on 2016/04/07 18:52:32: Changed item 5 - 12.0000 in Price/Sell Price to 102.0000. 
+Change on 2016/04/07 18:54:19: Changed item 5 - 102.0000 in Price/Sell Price to 12.0000. 
+Change on 2016/04/07 18:58:48: Changed item 45 - 12.0000 in Price/Sell Price to 120.0000. 
+Change on 2016/04/07 18:59:06: Changed item 8 - 100 in Stock/In Stock to 1010. 
+Change on 2016/04/07 19:04:09: Changed item 6 - 449.9900 in Price/Sell Price to 449.9900h. 
+Change on 2016/04/07 19:08:30: Changed item 15 - 2016-03-26 00:00:00.000000 in Dates/Manufacturer Date to 2015-03-26. 
+Change on 2016/04/07 19:08:30: Changed item 15 - 2016-03-26 00:00:00.000000 in Dates/Last Stocking Date to 2016-03-26. 
+Change on 2016/04/07 19:08:30: Changed item 15 - 2016-03-26 00:00:00.000000 in Dates/Last Inventory CheckDate to 2016-03-26. 
+Change on 2016/04/07 19:08:30: Changed item 15 - 2016-03-26 00:00:00.000000 in Dates/Last Order Date to 2016-03-26. 
+Change on 2016/04/07 19:08:57: Changed item 8 - 2016-10-14 00:00:00.000000 in Dates/Manufacturer Date to 2016-10-15. 
+Change on 2016/04/07 19:08:57: Changed item 8 - 2016-12-10 00:00:00.000000 in Dates/Last Stocking Date to 2016-12-10. 
+Change on 2016/04/07 19:08:57: Changed item 8 - 2016-02-24 00:00:00.000000 in Dates/Last Inventory CheckDate to 2016-02-24. 
+Change on 2016/04/07 19:08:57: Changed item 8 - 2016-04-07 00:00:00.000000 in Dates/Last Order Date to 2016-04-07. 
+Change on 2016/04/07 19:10:38: Changed item 8 - 1010 in Stock/In Stock to 101. 
+Change on 2016/04/07 19:10:38: Changed item 8 - 2016-10-14 in Dates/Manufacturer Date to 2016-10-15. 
+Change on 2016/04/07 19:11:29: Changed item 10 - 2016-05-20 in Dates/Manufacturer Date to 2016-85-20. 
+Change on 2016/04/07 19:13:10: Changed item 6 - 2016-03-13 in Dates/Manufacturer Date to 2016-03-1332. 
+Change on 2016/04/07 19:19:21: Changed item 9 - 85 in Stock/In Freight to 85s. 
+Change on 2016/04/07 19:22:06: Changed item 9 - 2016-01-12 in Dates/Last Inventory CheckDate to 2016-d01-12. 
+Change on 2016/04/07 19:22:52: Changed item 8 - 400.0000 in Price/Buy Price to as400.0000. 
+Change on 2016/04/07 19:53:22: Changed item 5 - 4 in Price/In Stock to 3. 
+Change on 2016/04/07 19:53:22: Changed item 5 - 6 in Price/Sold to 5. 
+Change on 2016/04/07 19:53:23: Changed item 5 - 3 in Price/In Stock to 2. 
+Change on 2016/04/07 19:53:23: Changed item 5 - 7 in Price/Sold to 4. 
+Change on 2016/04/07 19:53:23: Changed item 5 - 2 in Price/In Stock to 1. 
+Change on 2016/04/07 19:53:23: Changed item 5 - 8 in Price/Sold to 3. 
+Change on 2016/04/07 19:53:29: Changed item 5 - 1 in Price/In Stock to 0. 
+Change on 2016/04/07 19:53:29: Changed item 5 - 9 in Price/Sold to 2. 
+Change on 2016/04/07 19:53:30: Changed item 5 - 0 in Price/In Stock to -1. 
+Change on 2016/04/07 19:53:30: Changed item 5 - 10 in Price/Sold to 1. 
+Change on 2016/04/07 19:53:31: Changed item 5 - -1 in Price/In Stock to -2. 
+Change on 2016/04/07 19:53:31: Changed item 5 - 11 in Price/Sold to 0. 
+Change on 2016/04/07 19:53:46: Changed item 5 - -2 in Stock/In Stock to 56. 
+Change on 2016/04/07 20:54:26: Changed item 5 - 12.0000 in Price/Sell Price to 1ddddddddddddddddd2.0000. 
+Change on 2016/04/07 20:54:46: Changed item 5 - 12.0000 in Price/Sell Price to 45.12.0000. 
+Change on 2016/04/07 20:54:59: Changed item 5 - 12.0000 in Price/Sell Price to 4455555555555555555555555555555555555555555555555555555555555555555555555554444444444444444444444444466666666666666666667880000. 
+Change on 2016/04/07 20:55:08: Changed item 5 - 12.0000 in Price/Sell Price to 44555555555555555555555555555555555555555555555555555555555555555555566667880000. 
+Change on 2016/04/07 21:35:36: Changed item 126 - 9997 in Dates/Last Stocking Date to 9998. 
+Change on 2016/04/07 21:35:53: Changed item 126 - 0.0000 in Price/Sell Price to k0.0000. 
+Change on 2016/04/07 21:36:01: Changed item 126 - 0.0000 in Price/Sell Price to 90.0000. 
+Change on 2016/04/07 23:49:23: Changed item 130 - 234 in Price/In Stock to 233. 
+Change on 2016/04/07 23:49:23: Changed item 130 - 22 in Price/Sold to 235. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 233 in Price/In Stock to 232. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 23 in Price/Sold to 234. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 232 in Price/In Stock to 231. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 24 in Price/Sold to 233. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 231 in Price/In Stock to 230. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 25 in Price/Sold to 232. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 230 in Price/In Stock to 229. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 26 in Price/Sold to 231. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 229 in Price/In Stock to 228. 
+Change on 2016/04/07 23:49:24: Changed item 130 - 27 in Price/Sold to 230. 
+Change on 2016/04/08 00:44:58: Changed item 110 - 449.9900 in Price/Sell Price to sdfsadfsdsdf449.9900. 
+Change on 2016/04/15 17:04:09: Changed item 1 - 859 in Price/In Stock to 858. 
+Change on 2016/04/15 17:04:09: Changed item 1 - 867 in Price/Sold to 860. 
+Change on 2016/04/18 15:46:57: Changed item 17 - 115554 in Product/SKU# to ); DROP TABLE Category;--. 
+Change on 2016/04/18 15:48:13: Changed item 17 - ); DROP TABLE Category;-- in Product/SKU# to 115554. 
+Change on 2016/04/18 15:49:45: Changed item 13 - 442.0000 in Price/Sell Price to ); DROP TABLE Category;--. 
+Change on 2016/04/18 15:50:42: Changed item 17 - Asus Zenbook Laptop in Product/Product Name to ); DROP TABLE Category; --. 
+Change on 2016/04/18 15:51:04: Changed item 17 - ); DROP TABLE Category; -- in Product/Product Name to Asus Zenbook Laptop. 
+Change on 2016/04/18 15:52:54: Changed item 16 - Samsung Galaxy Tab A Tablet in Product/Product Name to '; DROP TABLE Category; --. 
+Change on 2016/04/18 15:53:29: Changed item 16 - '; DROP TABLE Category; -- in Product/Product Name to Samsung Galaxy Tab A. 
+Change on 2016/04/18 17:05:06: Changed item 133 - 9997 in Dates/Manufacturer Date to 2010/01/01. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 0.0000 in Price/Sell Price to 100.0000. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 0.0000 in Price/Buy Price to 50.0000. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 0.0000 in Price/Buy Price to 1.0000. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 0 in Stock/In Stock to 101. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 0 in Stock/In Freight to 10. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 0 in Stock/Sold to 200. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 9997 in Dates/Last Stocking Date to 2010/01/01. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 9997 in Dates/Last Inventory CheckDate to 2010/01/01. 
+Change on 2016/04/18 17:06:03: Changed item 133 - 9997 in Dates/Last Order Date to 2010/01/01. 
+Change on 2016/04/24 16:59:02: Changed item 43 - 25 in Price/In Stock to 24. 
+Change on 2016/04/24 16:59:02: Changed item 43 - 63 in Price/Sold to 26. 
+Change on 2016/04/24 16:59:06: Changed item 43 - 24 in Price/In Stock to 23. 
+Change on 2016/04/24 16:59:06: Changed item 43 - 64 in Price/Sold to 25. 
+Change on 2016/04/24 17:04:17: Changed item 132 -  in Product/Product Name to Logi. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 0.0000 in Price/Sell Price to 150.0000. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 0.0000 in Price/Buy Price to 50.0000. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 0.0000 in Price/Buy Price to 10.0000. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 0 in Stock/In Stock to 100. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 0 in Stock/In Freight to 10. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 0 in Stock/Sold to 30. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 9997 in Dates/Manufacturer Date to 9997-02-01. 
+Change on 2016/04/24 17:06:24: Changed item 135 - 9997 in Dates/Last Stocking Date to 9997-20-10. 
